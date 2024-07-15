@@ -6,7 +6,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color: #f4f4f4; /* Considera ajustar este color si es necesario para que combine o contraste con tu logo */
+    background-image: url('images/logo.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* O 'contain', dependiendo de cómo quieras que se vea el logo */
 }
 
 .container {
