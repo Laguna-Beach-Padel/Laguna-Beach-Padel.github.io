@@ -10,7 +10,7 @@ body {
     background-image: url("../images/logo.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; /* O 'contain', dependiendo de cómo quieras que se vea el logo */
+    background-size: contain; /* O 'contain', dependiendo de cómo quieras que se vea el logo */
 }
 
 .container {
